@@ -92,6 +92,13 @@ education:
 experiences:
     title: Experiences
     info:
+    - Rôle : Ingénieur logiciel senior
+        Temps : Janvier 2023 - Présent
+        Entreprise : ManyForMany.org
+        Détails :
+            Je développe actuellement un système semblable à Git pour élargir le public de l'open-source.
+            - Conception de l'architecture
+            - Coordination de l'équipe de développement
       - role: Lead Developer
         time: 2015 - Present
         company: Startup Hubs, San Francisco
